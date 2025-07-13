@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1056657376988",
+    "project_id": "stamina-check-list",
+    "storage_bucket": "stamina-check-list.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056657376988:android:f5075d309c6ba3bf3d9619",
+        "android_client_info": {
+          "package_name": "com.example.stamina_check_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCampLF5VToiQoLOKsNImfKg0RYUW2LD4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
